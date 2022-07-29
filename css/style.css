@@ -1,0 +1,294 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+}
+
+
+.wrapper {
+    background-color: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+    margin: 0 auto;
+}
+
+
+.sidebar {
+    width: 370px;
+    background-color: #1e2939;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+.my-photo {
+    width: 370px;
+}
+
+
+.contacts-container {
+    margin-top: 60px;
+    margin-right: 40px;
+    margin-bottom: 55px;
+    margin-left: 40px;
+}
+
+
+.contacts-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+
+.contacts-link-type {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 5px;
+}
+
+.contacts-link {
+    color: #7f858e;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.phone {
+    text-decoration: none;
+}
+
+
+.tech-skills-container {
+    margin-right: 40px;
+    margin-bottom: 55px;
+    margin-left: 40px;
+}
+
+
+.tech-skills-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+
+.tech-skills-list {
+    margin-left: 15px;
+}
+
+
+.tech-skills-item {
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.tech-skills-text {
+    color: #ffffff;
+}
+
+
+.soft-skills-container {
+    margin-right: 40px;
+    margin-bottom: 55px;
+    margin-left: 40px;
+}
+
+
+.soft-skills-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+
+.soft-skills-list {
+    margin-left: 15px;
+}
+
+
+.soft-skills-item {
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.soft-skills-text {
+    color: #ffffff;
+}
+
+
+.about-me-container {
+    padding-top: 105px;
+    padding-right: 195px;
+    padding-bottom: 105px;
+    padding-left: 90px;
+}
+
+
+.info-container {
+    margin-bottom: 65px;
+}
+
+.profession {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+
+.name {
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+
+
+.description {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 410px;
+}
+
+
+.projects-container {
+    margin-bottom: 55px;
+}
+
+
+.about-me-title {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 6px;
+}
+
+
+.projects-list {
+    margin-left: 17px;
+}
+
+
+.projects-item {
+    color: #000000;
+    font-weight: 700;
+}
+
+
+.projects-link {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+
+.dots {
+    color: #a8a8a8;
+    font-weight: 100;
+}
+
+
+.tech-name {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.work-experience-container {
+    margin-bottom: 55px;
+}
+
+
+.company {
+    margin-bottom: 15px;
+}
+
+
+.company:last-child {
+    margin-bottom: 0;
+}
+
+
+.profession-title {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+
+.profession-company {
+    color: #ff6b08;
+}
+
+
+.profession-time {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.divider {
+    color: #000000;
+}
+
+
+.profession-duties {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 14px;
+}
+
+
+.university {
+    color: #ff6b08;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+
+.university-specialty {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
